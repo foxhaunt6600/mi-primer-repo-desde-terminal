@@ -1,1 +1,2 @@
-este es mi primer repositorio y archivo creado en git
+este es mi primer repositorio y archivo creado en git,este es un archivo modificado desde una branch secundaria para hacer pull request
+
